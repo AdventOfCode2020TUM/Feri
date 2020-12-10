@@ -1,0 +1,5 @@
+1-5 w: wffwfff
+1-2 w: fwwfff
+2-4 w: ffwfwfff
+5-7 w: ffffwfwfff
+1-2 w: ffwwwfff
